@@ -19,3 +19,5 @@ powerbi/**/cache.abf
 
 # enunciados (so na minha maquina)
 *.docx
+docs/modelo_dashboard.html
+.playwright-mcp/
