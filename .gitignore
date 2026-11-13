@@ -21,3 +21,5 @@ powerbi/**/cache.abf
 *.docx
 docs/modelo_dashboard.html
 .playwright-mcp/
+docs/andamento_local.md
+docs/modelo_fonte/
