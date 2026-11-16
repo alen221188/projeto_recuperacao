@@ -16,9 +16,3 @@ __pycache__/
 *.pbix.bak
 powerbi/**/localSettings.json
 powerbi/**/cache.abf
-
-# enunciados (so na minha maquina)
-*.docx
-docs/modelo_dashboard.html
-docs/andamento_local.md
-docs/modelo_fonte/
